@@ -1,2 +1,2 @@
 Mi primeer archivo en develop
-Edicion del primer archivo en develeop
+Elimine la linea editada y agregue una nueva en su lugar 
